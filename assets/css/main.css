@@ -2886,8 +2886,8 @@ div.test img {
 /*  3.1 Header Style 1
 /*----------------------------------------*/
 .tplogo__area a img {
-  max-width: 150px;
-  padding-right: 2rem;
+  max-width: 170px;
+  padding-right: 3rem;
 }
 
 .tpmenu__area ul li {
@@ -23091,7 +23091,7 @@ div.price-open {
 
 
 /* bg video */
-header {
+.hero-video{
   position: relative;
   background-color: black;
   height: 95vh;
@@ -23099,7 +23099,7 @@ header {
   width: 100%;
   overflow: hidden;
 }
-header .overlay {
+.hero-video .overlay {
   position: absolute;
   top: 0;
   left: 0;
@@ -23110,7 +23110,7 @@ header .overlay {
   z-index: 1;
 }
 
-header video {
+.hero-video video {
   position: absolute;
   top: 50%;
   left: 50%;
