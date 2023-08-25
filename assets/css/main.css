@@ -23140,3 +23140,26 @@ header .overlay {
   opacity: 0.5;
   z-index: 1;
 }
+
+
+.services-card{
+
+  padding: 1rem;
+  border-radius: 1rem;
+}
+
+.orange-1{
+  background: #f7e9de;
+}
+
+.orange-2{
+  background: #f6c5a4;
+}
+
+.orange-3{
+  background: #f57c2d;
+}
+
+.btn-round{
+  border-radius: 2rem;
+}
